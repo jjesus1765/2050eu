@@ -1,2 +1,1 @@
-# 2050eu
-Site 2050eu - Next.js + IA
+# 2050eu — MVP\n\nInstale deps, copie .env.example para .env.local, preencha chaves de teste e `npm run dev`.\n
